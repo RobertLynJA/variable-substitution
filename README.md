@@ -1,7 +1,7 @@
 # My Changes:
 - Updated to Node 16
 
-# GitHub Action for substituting variables in parameterized files ![.github/workflows/ci.yml](https://github.com/microsoft/variable-substitution/workflows/.github/workflows/ci.yml/badge.svg?branch=master)
+# GitHub Action for substituting variables in parameterized files ![.github/workflows/ci.yml](https://github.com/robertlynja/variable-substitution/workflows/.github/workflows/ci.yml/badge.svg?branch=master)
 
 With the Variable Substitution Action for GitHub, you can apply variable substitution to XML, JSON and YAML based configuration and parameter files.
 
