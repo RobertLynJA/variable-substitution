@@ -32,7 +32,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
 
-    - uses: robertlynja/variable-substitution@v1.01
+    - uses: robertlynja/variable-substitution@v1.02
       with:
         files: 'Application/*.json, Application/*.yaml, ./Application/SampleWebApplication/We*.config'
       env:
