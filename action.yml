@@ -1,5 +1,5 @@
 # action.yml
-name: 'Variable Substitution'
+name: 'Variable Substitution w/Node16'
 description: 'Apply Variable substitution in XML,JSON or YAML files. Github.com/Azure/Actions'
 inputs: 
   files:
