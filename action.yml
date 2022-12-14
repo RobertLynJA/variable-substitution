@@ -1,10 +1,10 @@
 # action.yml
-name: 'Variable Substitution w/Node16'
+name: 'Variable Substitution w/Node18'
 description: 'Apply Variable substitution in XML,JSON or YAML files. Github.com/Azure/Actions'
 inputs: 
   files:
     description: 'comma separated list of XML/JSON/YAML files in which tokens are to be substituted. Files names must be specified relative to the folder-path.'
     required: true
 runs:
-  using: 'node16'
+  using: 'node18'
   main: 'lib/variableSubstitution.js'
